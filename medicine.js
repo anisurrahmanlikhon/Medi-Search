@@ -63,7 +63,7 @@
             if (results.length === 0) {
                 medicineResultsElement.innerHTML = "<p>No medicine found for selected symptoms.</p>";
             } else {
-                let resultHTML = "<h3>Medicines for Selected Symptoms</h3><ul>";
+                let resultHTML = "<h3>Medicines for Selected Symptom</h3><ul>";
                 results.forEach(medicine => {
                     resultHTML += `<button type="button" class="btn btn-success mr-2 mb-2 medicine-btn">${medicine.name}</button>`;
                 });
