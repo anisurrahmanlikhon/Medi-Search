@@ -1,4 +1,4 @@
-<script>
+
         // Sample medicine data
         const medicines = [
             { name: "💊 Napa", symptoms: ["Fever", "Headache", "Back Pain"] },
@@ -67,4 +67,4 @@
                 medicineResultsElement.innerHTML = resultHTML;
             }
         }
-    </script>
+   
