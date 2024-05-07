@@ -1,9 +1,13 @@
 
         // Sample medicine data
         const medicines = [
-            { name: "💊 Napa", symptoms: ["Fever", "Headache", "Back Pain"] },
-            { name: "💊 Ambrox", symptoms: ["Cough", "Headache", "Back Pain", "Fever"] },
-            { name: "💊 Bisoprolol", symptoms: ["High Pressure"] }
+            { name: "💊 Napa", symptoms: ["Fever"] },
+            { name: "💊 Paracetamol", symptoms: ["Fever"] }, 
+            { name: "💊 Alatrol", symptoms: ["Cough"] },
+            { name: "💊 Ambrox", symptoms: ["Cough"] },
+            { name: "💊 Bisoprolol", symptoms: ["High Pressure"] },
+            { name: "💊 Paracetamol", symptoms: ["Headache"] },
+            { name: "💊 Pain Killer", symptoms: ["Back Pain"] },
             // Add more medicine objects with their respective symptoms
         ];
 
