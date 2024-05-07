@@ -61,7 +61,7 @@
             });
 
             if (results.length === 0) {
-                medicineResultsElement.innerHTML = "<p>No medicine is found. Please select or enter only symptom.</p>";
+                medicineResultsElement.innerHTML = "<p>No medicines found. Select/Enter only one symptom.</p>";
             } else {
                 let resultHTML = "<h3>Medicines for Selected Symptom</h3><ul>";
                 results.forEach(medicine => {
