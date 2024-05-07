@@ -1,0 +1,55 @@
+
+        body {
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+        }
+
+        .symptom-btn {
+            margin-right: 5px;
+            margin-bottom: 5px;
+        }
+
+        .selected-symptom {
+            margin-right: 5px;
+            margin-bottom: 5px;
+            font-size: 12px;
+        }
+
+        /* Updated style for h1 */
+        .interesting-heading {
+            font-size: 30px;
+            text-align: justify;
+            text-justify: inter-word;
+            color: #007bff;
+        }
+		
+		
+	
+        .interesting-heading-logo {
+            font-size: 30px;
+            font-weight: bold;
+            text-align: justify;
+            text-justify: inter-word;
+            color: #007bff;
+        }
+
+        /* Footer style */
+        footer {
+            margin-top: auto;
+            background-color: #343a40;
+            color: #fff;
+            padding: 20px 0;
+        }
+
+        /* Added style for footer content */
+        .footer-content {
+            color: #ccc;
+            font-size: 14px;
+        }
+
+        /* Medicine result button style */
+        .medicine-btn {
+            border-radius: 20px;
+        }
+    
