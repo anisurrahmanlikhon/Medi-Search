@@ -2,6 +2,7 @@
         // Sample medicine data
         const medicines = [
             { name: "💊 Napa", symptoms: ["Fever"] },
+            { name: "💊 Napa", symptoms: ["Headache"] },
             { name: "💊 Paracetamol", symptoms: ["Fever"] }, 
                 
             { name: "💊 Alatrol", symptoms: ["Cough"] },
