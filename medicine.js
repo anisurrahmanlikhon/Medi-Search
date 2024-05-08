@@ -3,11 +3,20 @@
         const medicines = [
             { name: "💊 Napa", symptoms: ["Fever"] },
             { name: "💊 Paracetamol", symptoms: ["Fever"] }, 
+                
             { name: "💊 Alatrol", symptoms: ["Cough"] },
             { name: "💊 Ambrox", symptoms: ["Cough"] },
+                
             { name: "💊 Bisoprolol", symptoms: ["High Pressure"] },
             { name: "💊 Paracetamol", symptoms: ["Headache"] },
             { name: "💊 Pain Killer", symptoms: ["Back Pain"] },
+                
+            { name: "💊 Ace", symptoms: ["Fever"] },
+            { name: "💊 Ace", symptoms: ["Headache"] },
+            { name: "💊 Ace", symptoms: ["Baik Pain"] },
+            { name: "💊 Ace", symptoms: ["Cough"] },
+        
+            
             // Add more medicine objects with their respective symptoms
         ];
 
