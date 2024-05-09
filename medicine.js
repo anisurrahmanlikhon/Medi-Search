@@ -17,10 +17,10 @@
             { name: "💊 Paracetamol", symptoms: ["Headache"] },
                 
                 
-            { name: "💊 Napa", symptoms: ["Baik Pain"] },
-            { name: "💊 Ace", symptoms: ["Baik Pain"] },
+            { name: "💊 Napa", symptoms: ["Back Pain"] },
+            { name: "💊 Ace", symptoms: ["Back Pain"] },
             { name: "💊 Pain Killer Plus", symptoms: ["Back Pain"] },
-            { name: "💊 Paracitamol", symptoms: ["Baik Pain"] },
+            { name: "💊 Paracitamol", symptoms: ["Back Pain"] },
             
 
 
