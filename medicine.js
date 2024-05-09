@@ -7,8 +7,9 @@
                 
                 
             { name: "💊 Alatrol", symptoms: ["Cough"] },
-            { name: "💊 Ambrox", symptoms: ["Cough"] },
+            { name: "🍾 Ambrox", symptoms: ["Cough"] },
             { name: "💊 Ace", symptoms: ["Cough"] },
+            { name: "🍾 Rymin", symptoms: ["Cough"] },
                 
     
             { name: "💊 Ace", symptoms: ["Headache"] },
@@ -16,8 +17,11 @@
             { name: "💊 Paracetamol", symptoms: ["Headache"] },
                 
                 
-            { name: "💊 Pain Killer", symptoms: ["Back Pain"] },
+            { name: "💊 Napa", symptoms: ["Baik Pain"] },
             { name: "💊 Ace", symptoms: ["Baik Pain"] },
+            { name: "💊 Pain Killer Plus", symptoms: ["Back Pain"] },
+            { name: "💊 Paracitamol", symptoms: ["Baik Pain"] },
+            
 
 
             { name: "💊 Phinix", symptoms: ["Gastics"] },
@@ -27,6 +31,16 @@
             { name: "💊 Sergel", symptoms: ["Gastics"] },
             { name: "💊 Losectil", symptoms: ["Gastics"] },
             { name: "💊 Pantonix", symptoms: ["Gastics"] },
+            { name: "💊 Antacid", symptoms: ["Gastics"] },
+            { name: " 🍾 Flacol", symptoms: ["Gastics"] },
+
+            
+            { name: "💊 Omastin", symptoms: ["Alergic"] },
+            { name: "💊 Rupa", symptoms: ["Alergic"] },
+            { name: "💊 Altrol", symptoms: ["Alergic"] },
+            { name: "💊 Rhinil", symptoms: ["Alergic"] },
+            { name: "💊 Cetirizine", symptoms: ["Alergic"] },
+            
                 
             { name: "💊 Bisoprolol", symptoms: ["High Pressure"] },
            
