@@ -2,20 +2,39 @@
         // Sample medicine data
         const medicines = [
             { name: "💊 Napa", symptoms: ["Fever"] },
-            { name: "💊 Napa", symptoms: ["Headache"] },
+            { name: "💊 Ace", symptoms: ["Fever"] },
             { name: "💊 Paracetamol", symptoms: ["Fever"] }, 
+                
                 
             { name: "💊 Alatrol", symptoms: ["Cough"] },
             { name: "💊 Ambrox", symptoms: ["Cough"] },
+            { name: "💊 Ace", symptoms: ["Cough"] },
+                
+    
+            { name: "💊 Ace", symptoms: ["Headache"] },
+            { name: "💊 Napa", symptoms: ["Headache"] },
+            { name: "💊 Paracetamol", symptoms: ["Headache"] },
+                
+                
+            { name: "💊 Pain Killer", symptoms: ["Back Pain"] },
+            { name: "💊 Ace", symptoms: ["Baik Pain"] },
+
+
+            { name: "💊 Phinix", symptoms: ["Gastics"] },
+            { name: "💊 Seclo", symptoms: ["Gastics"] },
+            { name: "💊 Renitid", symptoms: ["Gastics"] },
+            { name: "💊 Maxpro", symptoms: ["Gastics"] },
+            { name: "💊 Sergel", symptoms: ["Gastics"] },
+            { name: "💊 Losectil", symptoms: ["Gastics"] },
+            { name: "💊 Pantonix", symptoms: ["Gastics"] },
                 
             { name: "💊 Bisoprolol", symptoms: ["High Pressure"] },
-            { name: "💊 Paracetamol", symptoms: ["Headache"] },
-            { name: "💊 Pain Killer", symptoms: ["Back Pain"] },
+           
                 
-            { name: "💊 Ace", symptoms: ["Fever"] },
-            { name: "💊 Ace", symptoms: ["Headache"] },
-            { name: "💊 Ace", symptoms: ["Baik Pain"] },
-            { name: "💊 Ace", symptoms: ["Cough"] },
+            
+                
+           
+            
         
             
             // Add more medicine objects with their respective symptoms
