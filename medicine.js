@@ -41,16 +41,36 @@
             { name: "💊 Rhinil", symptoms: ["Allergic"] },
             { name: "💊 Cetirizine", symptoms: ["Allergic"] },
 
+                
             { name: "💊 Imotil", symptoms: ["Diarrhea"] },
             { name: "💊 Lopamid", symptoms: ["Diarrhea"] },
             { name: "💊 Lopera", symptoms: ["Diarrhea"] },
             { name: "💊 Loperin", symptoms: ["Diarrhea"] },
             { name: "💊 Normotol", symptoms: ["Diarrhea"] },
             
+
+            { name: "💊 Amodis", symptoms: ["Dysentery"] },
+            { name: "💊 Imotil", symptoms: ["Dysentery"] },
+            { name: "💊 Filmat", symptoms: ["Dysentery"] },
+            { name: "💊 Flazil", symptoms: ["Dysentery"] },
+
+
+            { name: "💊 Duralax", symptoms: ["Constipation"] },
+            { name: "💊 Duracolax", symptoms: ["Constipation"] },
+            { name: "💊 Bisacodyl", symptoms: ["Constipation"] },
+            { name: "💊 Lubilax", symptoms: ["Constipation"] },
+
+
+            { name: "💊 Asmaphen", symptoms: ["Low Pressure"] },
+            { name: "💊 Brodine 30", symptoms: ["Low Pressure"] },
+            { name: "🥂 Orsalain N", symptoms: ["Low Pressure"] },
                 
+    
             { name: "💊 Bisoprolol", symptoms: ["High Pressure"] },
-            { name: "💊 Asmaphen", symptoms: ["High Pressure"] },
-            { name: "💊 Brodine 30", symptoms: ["High Pressure"] },
+            { name: "💊 Bistol", symptoms: ["High Pressure"] },
+            { name: "💊 Osartil", symptoms: ["High Pressure"] },
+            { name: "💊 Angilock", symptoms: ["High Pressure"] },
+            
            
                 
             
