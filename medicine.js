@@ -20,7 +20,7 @@
             { name: "💊 Napa", symptoms: ["Back Pain"] },
             { name: "💊 Ace", symptoms: ["Back Pain"] },
             { name: "💊 Pain Killer Plus", symptoms: ["Back Pain"] },
-            { name: "💊 Paracitamol", symptoms: ["Back Pain"] },
+            { name: "💊 Paracetamol", symptoms: ["Back Pain"] },
             
 
 
@@ -35,11 +35,17 @@
             { name: "🍶 Flacol", symptoms: ["Gastics"] },
 
             
-            { name: "💊 Omastin", symptoms: ["Alergic"] },
-            { name: "💊 Rupa", symptoms: ["Alergic"] },
-            { name: "💊 Altrol", symptoms: ["Alergic"] },
-            { name: "💊 Rhinil", symptoms: ["Alergic"] },
-            { name: "💊 Cetirizine", symptoms: ["Alergic"] },
+            { name: "💊 Omastin", symptoms: ["Allergic"] },
+            { name: "💊 Rupa", symptoms: ["Allergic"] },
+            { name: "💊 Altrol", symptoms: ["Allergic"] },
+            { name: "💊 Rhinil", symptoms: ["Allergic"] },
+            { name: "💊 Cetirizine", symptoms: ["Allergic"] },
+
+            { name: "💊 Imotil", symptoms: ["Diarrhea"] },
+            { name: "💊 Lopamid", symptoms: ["Diarrhea"] },
+            { name: "💊 Lopera", symptoms: ["Diarrhea"] },
+            { name: "💊 Loperin", symptoms: ["Diarrhea"] },
+            { name: "💊 Normotol", symptoms: ["Diarrhea"] },
             
                 
             { name: "💊 Bisoprolol", symptoms: ["High Pressure"] },
