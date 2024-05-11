@@ -46,7 +46,7 @@
             { name: "💊 Lopamid", symptoms: ["Diarrhea"] },
             { name: "💊 Lopera", symptoms: ["Diarrhea"] },
             { name: "💊 Loperin", symptoms: ["Diarrhea"] },
-            { name: "💊 Normotol", symptoms: ["Diarrhea"] },
+            { name: "💊 Normotil", symptoms: ["Diarrhea"] },
             
 
             { name: "💊 Amodis", symptoms: ["Dysentery"] },
