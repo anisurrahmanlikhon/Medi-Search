@@ -43,6 +43,8 @@
             
                 
             { name: "💊 Bisoprolol", symptoms: ["High Pressure"] },
+            { name: "💊 Asmaphen", symptoms: ["High Pressure"] },
+            { name: "💊 Brodine 30", symptoms: ["High Pressure"] },
            
                 
             
