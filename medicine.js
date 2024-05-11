@@ -47,14 +47,14 @@
             { name: "💊 Lopera", symptoms: ["Diarrhea"] },
             { name: "💊 Loperin", symptoms: ["Diarrhea"] },
             { name: "💊 Normotil", symptoms: ["Diarrhea"] },
+                
             
-
             { name: "💊 Amodis", symptoms: ["Dysentery"] },
             { name: "💊 Imotil", symptoms: ["Dysentery"] },
             { name: "💊 Filmat", symptoms: ["Dysentery"] },
             { name: "💊 Flazil", symptoms: ["Dysentery"] },
-
-
+                
+                
             { name: "💊 Duralax", symptoms: ["Constipation"] },
             { name: "💊 Duracolax", symptoms: ["Constipation"] },
             { name: "💊 Bisacodyl", symptoms: ["Constipation"] },
