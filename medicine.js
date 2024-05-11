@@ -4,8 +4,8 @@
             { name: "💊🍶 Napa", symptoms: ["Fever"] },
             { name: "💊 Ace", symptoms: ["Fever"] },
             { name: "💊 Paracetamol", symptoms: ["Fever"] }, 
-                
-                
+            
+            
             { name: "💊 Alatrol", symptoms: ["Cough"] },
             { name: "🍶 Ambrox", symptoms: ["Cough"] },
             { name: "💊 Ace", symptoms: ["Cough"] },
