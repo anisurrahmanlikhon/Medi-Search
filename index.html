@@ -44,6 +44,8 @@
     <!-- Main Content -->
     <div class="container mt-5">
        <h3 class="interesting-heading">স্মার্ট মেডিসিন সার্চ</h3><!-- Updated h1 tag -->
+       <<br>
+	       
 	<p><b>শুধুমাত্র একটি লক্ষণ সিলেক্ট করুন:</b></p>
         <div id="symptomButtons" class="mt-3">
             <button type="button" class="btn btn-danger symptom-btn"
@@ -74,7 +76,7 @@
         <div id="selectedSymptoms" class="mt-3"></div>
         <div class="form-group mt-3">
             <label for="symptom"><b>শুধুমাত্র একটি লক্ষণ এখানে আসবে:</b></label>
-            <input type="text" class="form-control" id="symptom" placeholder="Enter Only One symptoms" oninput="updateSelectedSymptoms()">
+            <input type="text" class="form-control" id="symptom" placeholder="লক্ষণ সিলেক্ট করলে স্বয়ংক্রিয়ভাবে চলে আসবে" oninput="updateSelectedSymptoms()">
         </div>
         <button type="button" class="btn btn-primary mb-3" onclick="searchMedicine()">🔍 সার্চ</button>
         <div id="medicineResults" class="mt-3"></div>
