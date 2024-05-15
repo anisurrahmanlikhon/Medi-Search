@@ -102,7 +102,7 @@
             if (results.length === 0) {
                 medicineResultsElement.innerHTML = "<p>No medicines found. Select/Enter only one symptom.</p>";
             } else {
-                let resultHTML = "<h3>Medicines for Selected Symptom</h3><ul>";
+                let resultHTML = "<h4>যে লক্ষণ সিলেক্ট করেছেন তার মেডিসিন সমূহ</h4><ul>";
                 results.forEach(medicine => {
                     resultHTML += `<button type="button" class="btn btn-success mr-2 mb-2 medicine-btn">${medicine.name}</button>`;
                 });
